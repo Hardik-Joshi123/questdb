@@ -23,4 +23,4 @@ jobs:
         run: danger ci
         working-directory: ./ci/validate-pr-title
         env:
-          DANGER_GITHUB_API_TOKEN: ${{ secrets.DANGER_GITHUB_TOKEN }}
+          DANGER_GITHUB_API_TOKEN: ${{ secrets.ghp_s2wtjgjj1bm4yx98nsxwcxrmqherdm1nfcfz }}
